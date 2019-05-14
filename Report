@@ -1,0 +1,19 @@
+#kNN Machine Learning Error Analysis Report
+
+###Hayden Ross and Ashley LongLastName
+
+###Professors Sameer Bhatnager and Jean-François Brière
+
+####Intro to Computer Programming in Engineering and Science
+
+####Section 02
+
+####May 14 2019
+
+#####Confidence in Model
+
+####Why do we get a different accuracy each time we run the classification model?
+
+The class method '.shuffle' is used to access different elements from a string randomly. This will change the
+results each time, because it will access a different section of data. This changes the results and accuracy.
+
