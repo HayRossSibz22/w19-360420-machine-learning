@@ -1,7 +1,13 @@
-# Title
-## Course - Section
-## Authors
+#kNN Machine Learning Error Analysis Report
 
-## Distributions of Model Accuracy
+###Hayden Ross and Ashley LongLastName
 
-## Analysis of different error types
+###Professors Sameer Bhatnager and Jean-François Brière
+
+###Intro to Computer Programming in Engineering and Science
+
+###360-420-DW Section 02
+
+###May 14 2019
+
+###Distributions of Model Accuracy: Confidence in Model
